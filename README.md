@@ -26,7 +26,7 @@
 <span><img src="https://img.shields.io/badge/Phpstorm-282C34?logo=phpstorm&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;  
  <br>
- <h2 align="center">👽 Where to find me 👽</h2>
+ <h2 align="center">Where to find me </h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
