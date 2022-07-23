@@ -34,9 +34,7 @@
   <a href="https://www.facebook.com/profile.php?id=100043580224006" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="vanquang202-facebook" />
   </a> 
-  <a href="quangvq812@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="vanquang202-email" />
-  </a>
+ 
 </div>
 
 <br>
