@@ -25,19 +25,5 @@
 &nbsp;  
 <span><img src="https://img.shields.io/badge/Phpstorm-282C34?logo=phpstorm&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;  
- <br>
- <h2 align="center">Where to find me </h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
   
-  <a href="https://www.facebook.com/profile.php?id=100043580224006" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="vanquang202-facebook" />
-  </a> 
- 
-</div>
-
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanquang202)](https://github.com/anuraghazra/github-readme-stats)
 
