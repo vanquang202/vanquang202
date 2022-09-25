@@ -3,11 +3,13 @@
 <h2 align="center">👋 Hi, I’m @vanquang202</h2>
 <br>
 <div align="center">
-  <img width="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
-   <img width="300" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif">
+  <img width="100" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+   <img width="100" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif">
+<img width="100" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 </div> 
 <br>
 <!-- https://simpleicons.org/ -->
+<div align="center">
 <span><img src="https://img.shields.io/badge/Php-282C34?logo=php&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;   
 <span><img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -30,4 +32,5 @@
 &nbsp;  
 <span ><img  src="https://img.shields.io/badge/Phpstorm-282C34?logo=phpstorm&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp; 
+</div> 
 
