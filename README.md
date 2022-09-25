@@ -3,7 +3,7 @@
 <h2 align="center">👋 Hi, I’m @vanquang202</h2>
 <br>
 <div align="center">
-  <img width="300" src="./hello.gif">
+  <img width="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 </div>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -28,6 +28,5 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;  
 <span><img src="https://img.shields.io/badge/Phpstorm-282C34?logo=phpstorm&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;  
-  
+&nbsp; 
 
