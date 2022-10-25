@@ -3,7 +3,7 @@
 <h2 align="center">👋 Hi, I’m @vanquang202</h2>
 <br>
 <div align="center">
-   <img width="900" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif">
+   <img width="200" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif">
 </div> 
 <br>
 <!-- https://simpleicons.org/ -->
