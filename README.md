@@ -1,5 +1,5 @@
   
-<h2 align="center">👋 Hi, I’m @vanquang202</h2>
+<h2 align="center">👋 Hi, I’m vanquang202</h2>
 <br>
 
 <!-- https://simpleicons.org/ -->
