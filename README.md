@@ -1,5 +1,5 @@
   
-<h2 align="center">👋 Hi, I’m Van Quang </h2>
+<h2 align="center">👋 Hi, I’m Van Quang 🐳 </h2>
 <br>
 
 <!-- https://simpleicons.org/ -->
