@@ -25,9 +25,9 @@
 &nbsp 
 <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp; 
-  <span ><img  src="https://img.shields.io/badge/csharp-282C34?logo=csharp&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+  <span ><img  src="https://img.shields.io/badge/Csharp-282C34?logo=Csharp&logoColor=007ACC" alt="Csharp" title="Csharp" height="25" /></span>
 &nbsp; 
-    <span ><img  src="https://img.shields.io/badge/dotnet-282C34?logo=dotnet&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+    <span ><img  src="https://img.shields.io/badge/DotnetFramework-282C34?logo=Dotnet&logoColor=007ACC" alt="Dotnet" title="Dotnet" height="25" /></span>
 &nbsp; 
 </div> 
 
